@@ -46,11 +46,6 @@ Projeyi kendi bilgisayarınızda çalıştırmak için şu adımları izleyin:
 
 Bu proje eğitim ve kişisel kullanım amaçlıdır. Kullanılan `GTranslate` kütüphanesi, Google Translate'in web arayüzünü kullanır. Ticari veya çok yoğun kullanımlarda Google IP adresinizi geçici olarak kısıtlayabilir.
 
-## 🤝 Katkıda Bulunma
 
-Geliştirmek isterseniz:
-1.  Bu projeyi Fork'layın.
-2.  Yeni özellikler ekleyin (Örn: "Panoya Kopyala" butonu, Sesli Okuma özelliği).
-3.  Pull Request gönderin.
 
----MEHMET YUSUF YILIKOĞLU
+---Oğulcan Demir
